@@ -1,10 +1,10 @@
 ## LiSAT
-LiSAT (LiftedSAT) is a SAT-based planner build on top of the lifted planner (`powerlifted`)[https://github.com/abcorrea/powerlifted] by A. Corrêa et al.
+LiSAT (LiftedSAT) is a SAT-based planner build on top of the lifted planner [`powerlifted`](https://github.com/abcorrea/powerlifted) by A. Corrêa et al.
 In contrast to classical SAT-based planners, LiSAT directly translates the lifted planning problem into a SAT formula.
 This may yield to lower performance on some small benchmark instances, but allows LiSAT to solve huge planning problems that prior SAT-based planners could not even start to tackle.
 
 ### Obtaining and Building LiSAT
-LiSAT is available on (github){https://github.com/LiSAT-Planning/LiSAT}.
+LiSAT is available on [github](https://github.com/LiSAT-Planning/LiSAT).
 Its README.md contains instructions on how to build LiSAT.
 
 ### Running LiSAT
